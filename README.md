@@ -7,6 +7,7 @@ Without a doubt the most useful module you will ever find on NPM.
 "Replaces" console.log with a better alternative which prints a random ASCII dog above the standard console.log output.
 
 # Install
+
 ```
 npm install console.dog --save
 ```
