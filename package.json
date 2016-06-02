@@ -1,0 +1,14 @@
+{
+  "name": "console.dog",
+  "version": "0.0.1",
+  "description": "without a doubt the most useful module you will ever find on npm",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lee M (lee@hma.co.uk)",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "random-js": "^1.0.8"
+  },
+  "license": "ISC",
+  "repository": "https://github.com/leemm/console.dog.git"
+}
