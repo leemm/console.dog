@@ -1,6 +1,6 @@
 {
   "name": "console.dog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "without a doubt the most useful module you will ever find on npm",
   "main": "index.js",
   "scripts": {},
@@ -10,5 +10,6 @@
     "random-js": "^1.0.8"
   },
   "license": "ISC",
-  "repository": "https://github.com/leemm/console.dog.git"
+  "repository": "https://github.com/leemm/console.dog.git",
+  "keywords": [ "console", "dog", "animal", "console.log", "useless", "woof" ]
 }
