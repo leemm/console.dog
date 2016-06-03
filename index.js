@@ -1,6 +1,4 @@
-'use strict';
-
-const colors = require('colors'),
+var colors = require('colors'),
 	allColors = Object.keys(colors.styles),
 	log = console.log;
 
@@ -12,7 +10,7 @@ let color = 'white'; // default
  * @param  {Number} upper
  * @return {Number}
  */
-const randomNumber = (lower, upper) => {
+var randomNumber = function(lower, upper) {
 
 	lower = lower || 0;
 	upper = upper || 0;

@@ -3,7 +3,6 @@ console.dog
 
 [![Build Status](https://travis-ci.org/leemm/console.dog.svg?branch=master)](https://travis-ci.org/leemm/console.dog)
 
-Without a doubt the most useful module you will ever find on NPM.
 "Replaces" console.log with a better alternative which prints a random ASCII dog above the standard console.log output.
 
 # Install

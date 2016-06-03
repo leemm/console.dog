@@ -1,5 +1,3 @@
-'use strict';
-
 require('../index');
 
 console.dog('Cheese Burger');
